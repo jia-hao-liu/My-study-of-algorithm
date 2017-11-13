@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510574531 source:f:\learn of github\my-study-of-algorithm\multiply two polynomial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510573785 source:f:\learn of github\my-study-of-algorithm\multiply two polynomial\operate.c
+	<stdio.h>
+
